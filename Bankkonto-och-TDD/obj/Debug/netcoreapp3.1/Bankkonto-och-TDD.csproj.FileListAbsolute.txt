@@ -1,0 +1,13 @@
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\bin\Debug\netcoreapp3.1\Bankkonto-och-TDD.exe
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\bin\Debug\netcoreapp3.1\Bankkonto-och-TDD.deps.json
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\bin\Debug\netcoreapp3.1\Bankkonto-och-TDD.runtimeconfig.json
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\bin\Debug\netcoreapp3.1\Bankkonto-och-TDD.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\bin\Debug\netcoreapp3.1\Bankkonto-och-TDD.dll
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\bin\Debug\netcoreapp3.1\Bankkonto-och-TDD.pdb
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\obj\Debug\netcoreapp3.1\Bankkonto-och-TDD.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\obj\Debug\netcoreapp3.1\Bankkonto-och-TDD.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\obj\Debug\netcoreapp3.1\Bankkonto-och-TDD.AssemblyInfo.cs
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\obj\Debug\netcoreapp3.1\Bankkonto-och-TDD.csproj.CoreCompileInputs.cache
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\obj\Debug\netcoreapp3.1\Bankkonto-och-TDD.dll
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\obj\Debug\netcoreapp3.1\Bankkonto-och-TDD.pdb
+C:\Users\Philip\source\repos\Bankkonto-och-TDD\Bankkonto-och-TDD\obj\Debug\netcoreapp3.1\Bankkonto-och-TDD.genruntimeconfig.cache
